@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # GLASSDOOR JOB ANALYSIS
 
@@ -52,3 +53,7 @@ Customers with few products are more likely to churn
 ## MODELS
 ## CONCLUSION
 
+=======
+# Glassdoor-Data-Science-Jobs
+EDA+DATA CLEANING 
+>>>>>>> 1e53411f29907ad12aec2588cd9489079e110e8d
